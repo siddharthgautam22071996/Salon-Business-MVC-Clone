@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+    <LinearLayout
+        android:padding="@dimen/_4sdp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:textColor="@color/colorBlue5"
+            android:layout_margin="@dimen/_10sdp"
+            android:layout_width="match_parent"
+            android:padding="@dimen/_4sdp"
+            android:textSize="@dimen/_13sdp"
+            android:text="Who will see this promotion?"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:weightSum="2"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.v7.widget.CardView
+                android:layout_weight="1"
+                android:id="@+id/cvEveryone"
+                app:cardCornerRadius="@dimen/_2sdp"
+                android:layout_margin="@dimen/_10sdp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <LinearLayout
+                    android:padding="@dimen/_7sdp"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                <ImageView
+                    android:src="@mipmap/ic_everyone2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:textColor="@color/colorBlue5"
+                        android:id="@+id/everyone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Everyone"/>
+                </LinearLayout>
+
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_weight="1"
+                android:id="@+id/cvIndi"
+                app:cardCornerRadius="@dimen/_2sdp"
+                android:layout_margin="@dimen/_10sdp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <LinearLayout
+                    android:gravity="center"
+                    android:padding="@dimen/_7sdp"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:src="@mipmap/ic_individual"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:textColor="@color/colorWhite"
+                        android:id="@+id/individual"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Individual"/>
+                </LinearLayout>
+
+
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+
+
+        <AutoCompleteTextView
+                android:id="@+id/act_search"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_10sdp"
+                android:background="@drawable/layout_bg3"
+                android:drawableLeft="@drawable/search_icon"
+                android:drawablePadding="@dimen/_6sdp"
+                android:hint="@string/searchCustomer"
+                android:padding="@dimen/_5sdp"
+                android:textSize="@dimen/_13sdp" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rvCustomer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:divider="@null"
+            android:layout_margin="@dimen/_10sdp"
+            android:orientation="vertical"
+            app:layoutManager="android.support.v7.widget.LinearLayoutManager">
+
+        </android.support.v7.widget.RecyclerView>
+
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>
+
+    <TextView
+        android:textSize="@dimen/_15sdp"
+        android:padding="@dimen/_6sdp"
+        android:text="proceed"
+        android:textAllCaps="true"
+        android:id="@+id/proceed"
+        android:gravity="center"
+        android:background="@color/colorBlue5"
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

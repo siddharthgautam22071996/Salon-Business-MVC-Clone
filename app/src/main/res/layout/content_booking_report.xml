@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:listitem="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/colorBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+        android:descendantFocusability="blocksDescendants"
+        android:background="@color/colorBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <android.support.v7.widget.CardView
+            android:weightSum="3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:padding="@dimen/_10sdp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_margin="@dimen/_4sdp"
+                android:gravity="center"
+                android:id="@+id/tvAll"
+                android:background="@drawable/layout_17"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"
+                android:padding="@dimen/_7sdp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/All"/>
+            <TextView
+                android:layout_weight="1"
+                android:layout_margin="@dimen/_4sdp"
+                android:gravity="center"
+                android:id="@+id/tvOnline"
+                android:textColor="@color/colorGrey"
+                android:background="@drawable/layout_bg16"
+                android:textStyle="bold"
+                android:padding="@dimen/_7sdp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/online"/>
+            <TextView
+                android:layout_weight="1"
+                android:layout_margin="@dimen/_4sdp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:id="@+id/tvOffline"
+                android:textColor="@color/colorGrey"
+                android:background="@drawable/layout_bg16"
+                android:padding="@dimen/_7sdp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/offline"/>
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rvBooingReport"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:divider="@null"
+            android:layout_marginTop="@dimen/_3sdp"
+            android:nestedScrollingEnabled="false"
+            android:orientation="vertical"
+            app:layoutManager="android.support.v7.widget.LinearLayoutManager" />
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

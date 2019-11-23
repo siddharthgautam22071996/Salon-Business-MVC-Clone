@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:gravity="center">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:gravity="center"
+                android:layout_centerHorizontal="true"
+                android:text="@string/booking"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/_14sdp" />
+
+            <ImageView
+                android:id="@+id/app_bar_iv_appointments_dummy"
+                android:layout_width="wrap_content"
+                android:paddingRight="@dimen/_10sdp"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:src="@drawable/menu"
+                android:visibility="visible" />
+
+
+
+           <!-- <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textColor="@color/colorBlack"
+                android:layout_marginRight="@dimen/_10sdp"
+                android:text="Add Customer"
+                android:gravity="center"
+                android:drawableTop="@drawable/add_customers" />-->
+
+        </RelativeLayout>
+    </android.support.v7.widget.Toolbar>
+
+    <include layout="@layout/activity_booking" />
+
+
+</LinearLayout>

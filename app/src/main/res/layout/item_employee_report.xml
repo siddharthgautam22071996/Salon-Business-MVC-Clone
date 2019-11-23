@@ -1,0 +1,66 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="4"
+    android:paddingTop="@dimen/_10sdp"
+    android:paddingBottom="@dimen/_10sdp"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+            <TextView
+                android:layout_weight="0.9"
+                android:gravity="center"
+                android:textColor="@color/colorDarkGrey"
+                android:id="@+id/tv_empName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Employee"/>
+
+
+
+
+            <TextView
+                android:gravity="center"
+                android:layout_weight="1"
+                android:id="@+id/tv_from"
+
+                android:textColor="@color/colorDarkGrey"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="From "/>
+
+            <TextView
+                android:layout_weight="1"
+                android:id="@+id/tv_to"
+
+                android:textColor="@color/colorDarkGrey"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="To"/>
+
+            <TextView
+                android:layout_weight="1.11"
+                android:gravity="center"
+
+                android:textColor="@color/colorDarkGrey"
+                android:id="@+id/tv_total_days"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="T. days"/>
+
+
+
+        </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorGrey25"/>
+</LinearLayout>

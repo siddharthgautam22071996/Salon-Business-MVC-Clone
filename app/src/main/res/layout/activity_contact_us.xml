@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="@dimen/_6sdp"
+    android:layout_width="match_parent"
+    android:background="@color/colorBackground"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:layout_marginTop="@dimen/_6sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:padding="@dimen/_6sdp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="@dimen/_14sdp"
+                android:text="Contact bdo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_4sdp"/>
+
+            <TextView
+                android:drawablePadding="@dimen/_4sdp"
+                android:drawableLeft="@drawable/customer"
+                android:textSize="@dimen/_12sdp"
+                android:text="Siddharth Gautam"
+                android:padding="@dimen/_2sdp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:padding="@dimen/_2sdp"
+                android:drawablePadding="@dimen/_4sdp"
+                android:drawableLeft="@mipmap/ic_phone"
+                android:textSize="@dimen/_12sdp"
+                android:text="+91-9125846096"
+                android:id="@+id/bdoCall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:padding="@dimen/_2sdp"
+                android:drawablePadding="@dimen/_4sdp"
+                android:drawableLeft="@mipmap/ic_mail"
+                android:textSize="@dimen/_12sdp"
+                android:text="sid@fabkut.com"
+                android:id="@+id/bdoMail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:padding="@dimen/_6sdp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="@dimen/_14sdp"
+                android:text="Contact Manager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_4sdp"/>
+
+            <TextView
+                android:drawablePadding="@dimen/_4sdp"
+                android:drawableLeft="@drawable/customer"
+                android:textSize="@dimen/_12sdp"
+                android:text="Balraj Gautam"
+                android:padding="@dimen/_2sdp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:padding="@dimen/_2sdp"
+                android:drawablePadding="@dimen/_4sdp"
+                android:drawableLeft="@mipmap/ic_phone"
+                android:textSize="@dimen/_12sdp"
+                android:text="+91-9971112257"
+                android:id="@+id/managerCall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:padding="@dimen/_2sdp"
+                android:drawablePadding="@dimen/_4sdp"
+                android:drawableLeft="@mipmap/ic_mail"
+                android:textSize="@dimen/_12sdp"
+                android:id="@+id/managerMail"
+                android:text="balraj@fabkut.com"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:padding="@dimen/_6sdp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="@dimen/_14sdp"
+                android:text="Customer Care"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_4sdp"/>
+
+            <TextView
+                android:drawablePadding="@dimen/_4sdp"
+                android:textSize="@dimen/_13sdp"
+                android:text="24 * 7"
+                android:textStyle="bold"
+                android:padding="@dimen/_4sdp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:padding="@dimen/_2sdp"
+                android:drawablePadding="@dimen/_4sdp"
+                android:drawableLeft="@mipmap/ic_phone"
+                android:textSize="@dimen/_12sdp"
+                android:text="+91-7007289308"
+                android:id="@+id/customerCareCall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/customerCareMail"
+                android:padding="@dimen/_2sdp"
+                android:drawablePadding="@dimen/_4sdp"
+                android:drawableLeft="@mipmap/ic_mail"
+                android:textSize="@dimen/_12sdp"
+                android:text="info@fabkut.com"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_marginBottom="@dimen/_10sdp"
+    android:background="@color/colorGrey25"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+
+    android:background="@color/colorGrey25"
+    android:layout_width="match_parent"
+    android:paddingBottom="@dimen/_5sdp"
+    android:layout_height="match_parent">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:gravity="center"
+            android:id="@+id/tv_date"
+            android:background="@color/colorGrey"
+            android:textColor="@color/colorBlack"
+            android:text="12 april 2018"/>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textColor="@color/colorBlack"
+            android:text="Close Amount"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textStyle="italic"
+            android:id="@+id/closeAmount"
+            android:drawableLeft="@mipmap/rupee_icon"
+            android:textColor="@color/colorBlack"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/_12sdp"
+            android:text="800"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textColor="@color/colorBlack"
+            android:text="Booking Amount"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:id="@+id/bookingAmount"
+            android:textStyle="italic"
+            android:drawableLeft="@mipmap/rupee_icon"
+            android:textColor="@color/colorBlack"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/_12sdp"
+            android:text="800"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textColor="@color/colorBlack"
+            android:text="Advance Amount"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textStyle="italic"
+            android:drawableLeft="@mipmap/rupee_icon"
+            android:id="@+id/advanceAmount"
+            android:textColor="@color/colorBlack"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/_12sdp"
+            android:text="800"/>
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textColor="@color/colorBlack"
+            android:text="Draw Amount"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:drawableLeft="@mipmap/rupee_icon"
+            android:textStyle="italic"
+            android:id="@+id/drawAmount"
+            android:textColor="@color/colorBlack"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/_12sdp"
+            android:text="800"/>
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textColor="@color/colorBlack"
+            android:text="Voucher Amount"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textStyle="italic"
+            android:drawableLeft="@mipmap/rupee_icon"
+            android:id="@+id/voucherAmount"
+            android:textColor="@color/colorBlack"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/_12sdp"
+            android:text="800"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textColor="@color/colorBlack"
+            android:text="Purchase Order  Amount"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textStyle="italic"
+            android:id="@+id/poAmount"
+            android:drawableLeft="@mipmap/rupee_icon"
+            android:textColor="@color/colorBlack"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/_12sdp"
+            android:text="800"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_4sdp"
+        android:textColor="@color/colorBlack"
+        android:text="Ledger Amount"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/_4sdp"
+        android:textStyle="italic"
+        android:id="@+id/ledgerAmount"
+        android:drawableLeft="@mipmap/rupee_icon"
+        android:textColor="@color/colorBlack"
+        android:layout_alignParentRight="true"
+        android:textSize="@dimen/_12sdp"
+        android:text="80000"/>
+
+</RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textColor="@color/colorBlack"
+            android:text="Final Amount"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_4sdp"
+            android:textStyle="italic"
+            android:id="@+id/finalAmount"
+            android:drawableLeft="@mipmap/rupee_icon"
+            android:textColor="@color/colorBlack"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/_12sdp"
+            android:text="80000"/>
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>
+</android.support.v7.widget.CardView>

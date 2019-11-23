@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "639382126993",
+    "firebase_url": "https://fabkut-bea05.firebaseio.com",
+    "project_id": "fabkut-bea05",
+    "storage_bucket": "fabkut-bea05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639382126993:android:928c132786351b53",
+        "android_client_info": {
+          "package_name": "com.abhi.fabkutbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639382126993-rjqi7soddubv55pjkqssdkt1uah5t4bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhi.fabkutbusiness",
+            "certificate_hash": "d8fc0413014d603d36d77c7740587402814040f5"
+          }
+        },
+        {
+          "client_id": "639382126993-a966j66jh5s0vkf2qbqr6u38s7ovnu7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpfYggz6C35x9wqQgMtZQpmPgy5yeiHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639382126993-a966j66jh5s0vkf2qbqr6u38s7ovnu7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
