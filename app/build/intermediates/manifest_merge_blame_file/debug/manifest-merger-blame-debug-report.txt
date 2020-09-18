@@ -1,0 +1,183 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fabkut.admin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml
+10    <!--
+11         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+12         Google Maps Android API v2, but you must specify either coarse or fine
+13         location permissions for the "MyLocation" functionality.
+14    -->
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:9:5-79
+15-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:10:5-79
+16-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:10:22-76
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:11:5-81
+17-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="android.permission.INTERNET" />
+18-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:12:5-67
+18-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:12:22-64
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->[com.google.android.libraries.places:places:2.3.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\83d35e8127db567422dd3967f73189be\jetified-places-2.3.0\AndroidManifest.xml:10:5-76
+19-->[com.google.android.libraries.places:places:2.3.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\83d35e8127db567422dd3967f73189be\jetified-places-2.3.0\AndroidManifest.xml:10:22-73
+20
+21    <uses-feature
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\7752dcb5f35954b62a1d54735ffd34b4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+22        android:glEsVersion="0x00020000"
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\7752dcb5f35954b62a1d54735ffd34b4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+23        android:required="true" />
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\7752dcb5f35954b62a1d54735ffd34b4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+24
+25    <application
+25-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:14:5-42:19
+26        android:allowBackup="true"
+26-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:15:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.3.1] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+28        android:debuggable="true"
+29        android:extractNativeLibs="false"
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:16:9-43
+31        android:label="@string/app_name"
+31-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:17:9-41
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:18:9-54
+33        android:supportsRtl="true"
+33-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:19:9-35
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme" >
+35-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:20:9-40
+36        <activity android:name="com.admin.Activity.ServicesActivity" />
+36-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:21:9-72
+36-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:21:19-60
+37
+38        <meta-data
+38-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:23:9-25:55
+39            android:name="com.google.android.geo.API_KEY"
+39-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:24:13-58
+40            android:value="@string/google_maps_key" />
+40-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:25:13-52
+41
+42        <activity
+42-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:27:9-29:76
+43            android:name="com.admin.Activity.MapLocationSelectorActivity"
+43-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:28:13-65
+44            android:label="@string/title_activity_map_location_selector" />
+44-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:29:13-73
+45        <activity android:name="com.admin.business.Form2Activity" />
+45-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:30:9-69
+45-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:30:19-57
+46        <activity android:name="com.admin.business.MainActivity" />
+46-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:31:9-59
+46-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:31:19-56
+47        <activity android:name="com.admin.business.FormActivity" />
+47-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:32:9-59
+47-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:32:19-56
+48        <activity android:name="com.admin.DashboardActivity" />
+48-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:33:9-55
+48-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:33:19-52
+49        <activity android:name="com.admin.Activity.LoginActivity" />
+49-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:34:9-60
+49-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:34:19-57
+50        <activity android:name="com.admin.Activity.SplashActivity" >
+50-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:35:9-41:20
+50-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:35:19-58
+51            <intent-filter>
+51-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:36:13-40:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:37:17-69
+52-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:37:25-66
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:39:17-77
+54-->C:\Users\Dev-PC\AndroidStudioProjects\Fabkut-Business\app\src\main\AndroidManifest.xml:39:27-74
+55            </intent-filter>
+56        </activity>
+57        <activity
+57-->[com.google.android.libraries.places:places:2.3.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\83d35e8127db567422dd3967f73189be\jetified-places-2.3.0\AndroidManifest.xml:14:9-20:20
+58            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+58-->[com.google.android.libraries.places:places:2.3.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\83d35e8127db567422dd3967f73189be\jetified-places-2.3.0\AndroidManifest.xml:15:13-91
+59            android:exported="false"
+59-->[com.google.android.libraries.places:places:2.3.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\83d35e8127db567422dd3967f73189be\jetified-places-2.3.0\AndroidManifest.xml:16:13-37
+60            android:label="@string/places_autocomplete_label"
+60-->[com.google.android.libraries.places:places:2.3.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\83d35e8127db567422dd3967f73189be\jetified-places-2.3.0\AndroidManifest.xml:17:13-62
+61            android:theme="@style/PlacesAutocompleteOverlay"
+61-->[com.google.android.libraries.places:places:2.3.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\83d35e8127db567422dd3967f73189be\jetified-places-2.3.0\AndroidManifest.xml:18:13-61
+62            android:windowSoftInputMode="adjustResize" >
+62-->[com.google.android.libraries.places:places:2.3.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\83d35e8127db567422dd3967f73189be\jetified-places-2.3.0\AndroidManifest.xml:19:13-55
+63        </activity> <!-- Needs to be explicitly declared on P+ -->
+64        <uses-library
+64-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\7752dcb5f35954b62a1d54735ffd34b4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+65            android:name="org.apache.http.legacy"
+65-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\7752dcb5f35954b62a1d54735ffd34b4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+66            android:required="false" />
+66-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\7752dcb5f35954b62a1d54735ffd34b4\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+67
+68        <activity
+68-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\a1794986c7a3c4986f9feb2359005476\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+69            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+69-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\a1794986c7a3c4986f9feb2359005476\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+70            android:exported="false"
+70-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\a1794986c7a3c4986f9feb2359005476\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+71            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+71-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\a1794986c7a3c4986f9feb2359005476\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+72
+73        <meta-data
+73-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+74            android:name="com.google.android.gms.version"
+74-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+75            android:value="@integer/google_play_services_version" />
+75-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\294cc5ecc9001f3e94c034cd71f64fdf\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+76
+77        <service
+77-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\68b4976632d07fceb2ed50c799961157\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:29:9-35:19
+78            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+78-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\68b4976632d07fceb2ed50c799961157\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:30:13-103
+79            android:exported="false" >
+79-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\68b4976632d07fceb2ed50c799961157\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:31:13-37
+80            <meta-data
+80-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\68b4976632d07fceb2ed50c799961157\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:32:13-34:39
+81                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+81-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\68b4976632d07fceb2ed50c799961157\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:33:17-94
+82                android:value="cct" />
+82-->[com.google.android.datatransport:transport-backend-cct:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\68b4976632d07fceb2ed50c799961157\jetified-transport-backend-cct-2.1.0\AndroidManifest.xml:34:17-36
+83        </service>
+84        <service
+84-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\ec45e24408b2ff4d7843f6c1f4672351\jetified-transport-runtime-2.1.0\AndroidManifest.xml:26:9-30:19
+85            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+85-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\ec45e24408b2ff4d7843f6c1f4672351\jetified-transport-runtime-2.1.0\AndroidManifest.xml:27:13-117
+86            android:exported="false"
+86-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\ec45e24408b2ff4d7843f6c1f4672351\jetified-transport-runtime-2.1.0\AndroidManifest.xml:28:13-37
+87            android:permission="android.permission.BIND_JOB_SERVICE" >
+87-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\ec45e24408b2ff4d7843f6c1f4672351\jetified-transport-runtime-2.1.0\AndroidManifest.xml:29:13-69
+88        </service>
+89
+90        <receiver
+90-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\ec45e24408b2ff4d7843f6c1f4672351\jetified-transport-runtime-2.1.0\AndroidManifest.xml:32:9-34:40
+91            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+91-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\ec45e24408b2ff4d7843f6c1f4672351\jetified-transport-runtime-2.1.0\AndroidManifest.xml:33:13-132
+92            android:exported="false" />
+92-->[com.google.android.datatransport:transport-runtime:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\ec45e24408b2ff4d7843f6c1f4672351\jetified-transport-runtime-2.1.0\AndroidManifest.xml:34:13-37
+93
+94        <provider
+94-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\894873d045a0a220e7c24d43283db9eb\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+95            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+95-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\894873d045a0a220e7c24d43283db9eb\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+96            android:authorities="com.fabkut.admin.lifecycle-process"
+96-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\894873d045a0a220e7c24d43283db9eb\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+97            android:exported="false"
+97-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\894873d045a0a220e7c24d43283db9eb\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+98            android:multiprocess="true" />
+98-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\Dev-PC\.gradle\caches\transforms-2\files-2.1\894873d045a0a220e7c24d43283db9eb\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+99    </application>
+100
+101</manifest>

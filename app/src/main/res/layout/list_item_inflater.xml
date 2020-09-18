@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_3ssp"
+    app:cardCornerRadius="@dimen/_7ssp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/businessImage"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.3"
+            android:src="@drawable/ic_person" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/businessName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_business"
+                android:drawablePadding="@dimen/_2ssp" />
+
+
+            <TextView
+                android:id="@+id/contactPersonName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_person"
+                android:drawablePadding="@dimen/_2ssp" />
+
+
+            <TextView
+                android:id="@+id/businessAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_addresspin"
+                android:drawablePadding="@dimen/_2ssp" />
+
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/callBtn"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_margin="@dimen/_5ssp"
+            android:layout_weight="0.2"
+            android:background="@drawable/call_btn_design"
+            android:src="@drawable/ic_phone" />
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

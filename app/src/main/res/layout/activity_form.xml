@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:padding="@dimen/_8sdp"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Business Details"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="@dimen/_20ssp"/>
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5ssp"
+                android:hint="Business Name"
+                app:hintTextColor="@color/colorHint"
+                android:padding="@dimen/_7ssp">
+
+            <EditText
+                android:id="@+id/editTextTextPersonName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorBlack"
+                android:ems="10"
+                android:drawableLeft="@drawable/ic_business"
+                android:drawablePadding="@dimen/_2ssp"
+                android:textSize="@dimen/_16ssp"
+                android:inputType="textPersonName" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintTextColor="@color/colorHint"
+                android:hint="Contact Person Name"
+                android:padding="@dimen/_7ssp">
+
+            <EditText
+                android:id="@+id/editTextTextPersonName2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_person"
+                android:drawablePadding="@dimen/_2ssp"
+                android:ems="10"
+                android:textColor="@color/colorBlack"
+                android:textSize="@dimen/_16ssp"
+                android:inputType="textPersonName"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                app:hintTextColor="@color/colorHint"
+                android:layout_height="wrap_content"
+                android:hint="Contact Number"
+                android:padding="@dimen/_7ssp">
+
+            <EditText
+                android:id="@+id/editTextPhone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_phone"
+                android:drawablePadding="@dimen/_2ssp"
+                android:ems="10"
+                android:textSize="@dimen/_16ssp"
+                android:textColor="@color/colorBlack"
+                android:inputType="phone"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintTextColor="@color/colorHint"
+                android:hint="Email Id"
+                android:padding="@dimen/_7ssp">
+
+            <EditText
+                android:id="@+id/editTextTextEmailAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_email"
+                android:drawablePadding="@dimen/_2ssp"
+                android:textSize="@dimen/_16ssp"
+                android:textColor="@color/colorBlack"
+                android:ems="10"
+                android:inputType="textEmailAddress"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintTextColor="@color/colorHint"
+                android:hint="Password"
+                android:padding="@dimen/_7ssp">
+
+            <EditText
+                android:id="@+id/editTextTextPassword"
+                android:layout_width="match_parent"
+                android:textSize="@dimen/_16ssp"
+                android:drawableLeft="@drawable/ic_password"
+                android:drawablePadding="@dimen/_2ssp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorBlack"
+                android:ems="10"
+                android:inputType="textPassword"/>
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_design"
+                android:layout_marginTop="@dimen/_20ssp"
+                android:text="Submit" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

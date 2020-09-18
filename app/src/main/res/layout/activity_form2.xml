@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.admin.business.Form2Activity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:orientation="vertical"
+            android:padding="@dimen/_8sdp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Fill some more details!"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="@dimen/_20ssp" />
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_5ssp"
+                android:hint="No of chairs"
+                android:padding="@dimen/_7ssp"
+                app:hintTextColor="@color/colorHint">
+
+                <EditText
+                    android:id="@+id/editTextNoOfChairs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_chair"
+                    android:drawablePadding="@dimen/_2ssp"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/_16ssp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="No of Employee"
+                android:padding="@dimen/_7ssp"
+                app:hintTextColor="@color/colorHint">
+
+                <EditText
+                    android:id="@+id/editTextNoOfEmployee"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/ic_people"
+                    android:drawablePadding="@dimen/_2ssp"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/_16ssp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/openHours"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_7ssp"
+                app:hintTextColor="@color/colorHint">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:id="@+id/editTextOpenHours"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:drawableLeft="@drawable/ic_close_time"
+                        android:drawablePadding="@dimen/_2ssp"
+                        android:ems="10"
+                        android:inputType="time"
+                        android:hint="Opening Hours"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="@dimen/_16ssp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:id="@+id/selectOpenHours"
+                        android:src="@drawable/timepickericon"/>
+                </LinearLayout>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/closeHours"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_7ssp"
+                app:hintTextColor="@color/colorHint">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:id="@+id/editTextClosingHours"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:drawableLeft="@drawable/ic_close_time"
+                        android:drawablePadding="@dimen/_2ssp"
+                        android:hint="Closing Hours"
+                        android:ems="10"
+                        android:inputType="time"
+                        android:textColor="@color/colorBlack"
+                        android:textSize="@dimen/_16ssp" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:id="@+id/selectCloseHours"
+                        android:src="@drawable/timepickericon"/>
+                </LinearLayout>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <TextView
+                android:id="@+id/input_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawablePadding="@dimen/_3ssp"
+                android:hint="Select Address"
+                android:padding="@dimen/_7ssp"
+                android:textColorHint="@color/colorPrimary"
+                android:textSize="@dimen/_16ssp"
+                app:drawableLeftCompat="@drawable/ic_addresspin" />
+
+
+            <Button
+                android:id="@+id/form2btn_submit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_20ssp"
+                android:background="@drawable/btn_design"
+                android:text="Submit" />
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

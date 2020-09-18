@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_circle.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\shape_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_description.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_serviceicon.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\serviceicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_gradient_right_arrow_layout.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\gradient_right_arrow_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable-v24\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chair.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_chair.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_study.jpeg.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\study.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_white_circle.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\shape_white_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_layout.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\navigation_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map_location_selector.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\activity_map_location_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_file_download.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_file_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_design.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\btn_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_people.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_round_background.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable-v24\\round_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_privacy.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\privacy.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_course.jpeg.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\course.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_social_facebook.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\img_social_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_semibold.ttf.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\font\\opensans_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigation_top.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_navigation_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_service_list_inflater.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\service_list_inflater.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\font_devlysitalic.ttf.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\font\\devlysitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_services.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_navigation.jpeg.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\image_navigation.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_social_instagram.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\img_social_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_terms.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\terms.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feedback.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_toast.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_inflater.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\list_item_inflater.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_open_book.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_open_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_line_gradient.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\blue_line_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_edit_text_background.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable-v24\\edit_text_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_circle.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\red_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_after_login_gradiant_button.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\after_login_gradiant_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable-v24\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_live_session.jpeg.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\live_session.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_time.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_close_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call_btn_design.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\call_btn_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_profile.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable-v24\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_form2.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\activity_form2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_close.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable-v24\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_forward_black_24dp.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_arrow_forward_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_gradient.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable-v24\\button_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_addresspin.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_addresspin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download_to_storage_drive.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_download_to_storage_drive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shopping_basket.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_shopping_basket.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_887.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_group_887.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\font_opensans_light.ttf.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\font\\opensans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_log_out_symbol.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_log_out_symbol.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_serviceid.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\serviceid.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_social_twitter.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\img_social_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_circle.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\white_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_right_white.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_arrow_right_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_form.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_done.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable-v24\\ic_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_regular.ttf.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\font\\montserrat_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_timepickericon.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\timepickericon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_social_youtube.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\img_social_youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_time.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_currentaffair.jpeg.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\currentaffair.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_quiz.jpeg.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\quiz.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_business.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_business.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_book.jpeg.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\book.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Dev-PC\\AndroidStudioProjects\\Fabkut-Business\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    }
+]
